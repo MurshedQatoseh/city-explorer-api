@@ -1,0 +1,20 @@
+{
+  "name": "city-explorer-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MurshedQatoseh/city-explorer-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MurshedQatoseh/city-explorer-api/issues"
+  },
+  "homepage": "https://github.com/MurshedQatoseh/city-explorer-api#readme"
+}
